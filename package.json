@@ -1,0 +1,14 @@
+{
+  "name": "Alarm",
+  "raw": "alarm_skill",
+  "version": "1.0.0",
+  "description": "Set timer in Onyx",
+  "packages":[
+    "alsaaudio"
+  ],
+  "dependencies": [],
+  "author": "Cassim Khouani",
+  "license": "Creative Commons 3.0 France",
+  "navbar": "False",
+  "data": "False"
+}
