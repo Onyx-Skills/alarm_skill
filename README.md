@@ -1,1 +1,1 @@
-# Alarm Skill
+# Alarm Skill DEPRECATED
