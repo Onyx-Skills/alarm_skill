@@ -1,3 +1,3 @@
-Alarm set for {{datetime}}
-You have a new alarm on {{datetime}}
-A new alarm for {{datetime}} was added
+Une alarme a été mise pour {{datetime}}
+Vous avez une nouvelle alarme pour {{datetime}}
+Une alarme pour {{datetime}} a été ajoutée

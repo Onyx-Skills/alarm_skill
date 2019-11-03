@@ -1,2 +1,2 @@
-You have an alarm on {{datetime}}
-There is an alarm set for {{datetime}}
+Vous avez une alarme pour {{datetime}}
+Il y a une alarme pour {{datetime}}
